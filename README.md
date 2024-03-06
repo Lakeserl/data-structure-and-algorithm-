@@ -13,9 +13,29 @@ This repository is created for my own use to practice and improve my algorithmic
 5. Track Progress: Keep track of your progress as you solve more problems and improve your skills.
 6. Contribute: If you have additional problems, solutions, or improvements to existing content, feel free to contribute.
 
+## Daily Updates
+
+I will update this fucking repository every day until completion. Stay tuned for new content and improvements!
+
+## Languages
+
+I plan to use different programming languages for each topic to broaden my knowledge and understanding of different languages. Here's how I intend to use them:
+
+- Python: Known for its simplicity and readability, Python will be my choice for topics such as dynamic programming and graph algorithms.
+- C++: With its high performance and low-level control, I'll use C++ for topics requiring efficiency, such as binary search and heap data structures.
+
+
+## IDE
+
+For optimal coding experience, consider using the following IDEs:
+
+- **Python**: Visual Studio Code: [Download](https://code.visualstudio.com/download)
+  - Extensions:Python,Python Test Explorer, Python snippets
+- **C++**: CLions: [Download](https://www.jetbrains.com/clion/download/)
+
+
 ## Contents
 
 - Problem Sets: Organized by topics such as sorting, searching, dynamic programming, graphs, and more.
 - Solutions: Solutions to algorithmic problems implemented in various programming languages.
 - Resources: Additional resources such as tutorials, articles, and books to aid in your learning journey.
-
